@@ -1,4 +1,4 @@
-# Journal of Statistical Software
+# Tidy Data
 http://vita.had.co.nz/papers/tidy-data.pdf
 
 1. What is the problem that is being solved?
