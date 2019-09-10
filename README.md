@@ -9,4 +9,4 @@ origin links of papers contained in the notes
 
 ## Machine Learning
 - A Few Useful Things to Know About Machine Learning [[Notes]](./UsefulThingstoKnowAboutMachineLearning.md)
-- Journal of Statistical Software [[Notes]](./JournalofStatisticalSoftware.md)
+- Tidy Data [[Notes]](./TidyData.md)
