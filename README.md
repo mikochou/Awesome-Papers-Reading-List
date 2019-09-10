@@ -1,5 +1,6 @@
 # Awesome-Papers-Reading-List
 notes & papers
+origin links of papers contained in the notes
 ***
 
 ## NLP
