@@ -7,5 +7,5 @@ notes & papers
 - Convolutional Neural Networks for Sentence Classification [[Notes]](./1408.5882.md)
 
 ## Machine Learning
-- A Few Useful Things to Know About Machine Learning [[Notes]](./UsefulThingsto KnowAboutMachineLearning.md)
-- Journal of Statistical Software [[Notes]](./Journalof StatisticalSoftware.md)
+- A Few Useful Things to Know About Machine Learning [[Notes]](./UsefulThingstoKnowAboutMachineLearning.md)
+- Journal of Statistical Software [[Notes]](./JournalofStatisticalSoftware.md)
