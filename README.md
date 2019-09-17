@@ -10,3 +10,4 @@ origin links of papers contained in the notes
 ## Machine Learning
 - A Few Useful Things to Know About Machine Learning [[Notes]](./UsefulThingstoKnowAboutMachineLearning.md)
 - Tidy Data [[Notes]](./TidyData.md)
+- A comparative study of decision tree ID3 and C4.5 [[Notes]](./decisiontreeID3andC4.5.md)
