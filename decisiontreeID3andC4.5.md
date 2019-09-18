@@ -27,7 +27,7 @@ overall entropy = (37/60)*1.374 + (23/60)*1.565 = 1.447
 ### C4.5 algorithm: 
 limitation in ID3: overly sensitive to feature with large numbers of values
 C4.5 uses Gain ratio:
-![](https://tva1.sinaimg.cn/large/006y8mN6gy1g72lrvkjioj30r00jcad9.jpg)
+![](https://tva1.sinaimg.cn/large/006y8mN6gy1g73kb203t6j319w0t8jyw.jpg)
 * A possibility to use continuous data. 
 * Using unknown (missing) values 
 * Ability to use attributes with different weights. 
